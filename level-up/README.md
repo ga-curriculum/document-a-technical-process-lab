@@ -1,5 +1,5 @@
   <h1>
-    <span class="headline">[tktk Headline]</span>
+    <span class="headline">Document a Technical Process Lab</span>
     <span class="subhead">Level Up</span>
   </h1>
 
