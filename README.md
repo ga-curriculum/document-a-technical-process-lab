@@ -10,7 +10,7 @@ Clear and concise documentation is essential for communicating technical workflo
 ## Content
 
 - [Setup](./setup/README.md)
-- [Document a Technical Process Lab](./documenting-a-technical-process-lab/README.md)
+- [Document a Technical Process Lab](./document-a-technical-process/README.md)
 
 ## Rubrics
 
