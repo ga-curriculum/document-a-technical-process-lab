@@ -12,6 +12,11 @@ Clear and concise documentation is essential for communicating technical workflo
 - [Setup](./setup/README.md)
 - [Document a Technical Process Lab](./documenting-a-technical-process-lab/README.md)
 
+## Rubrics
+
+- [ITB - IT Bootcamp Rubric](./rubrics/itb.md)
+- [Fallback Rubric](./rubrics/fallback.md)
+
 ## Internal
 
 ### Prerequisites

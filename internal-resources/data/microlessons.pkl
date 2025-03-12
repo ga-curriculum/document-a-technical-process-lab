@@ -9,9 +9,9 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-documentingATechnicalProcessLab = new Template.Microlesson {
-  friendlyName = "Documenting A Technical Process Lab"
-  dirName = "documenting-a-technical-process-lab"
+documentATechnicalProcess = new Template.Microlesson {
+  friendlyName = "Document A Technical Process"
+  dirName = "document-a-technical-process"
   type = "Content"
   videoUrl = ""
 }

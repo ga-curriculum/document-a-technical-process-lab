@@ -3,9 +3,9 @@
   <span class="subhead">Release Notes</span>
 </h1>
 
-## Version 1.0 - Creation of New Module
+## Version 1.0 - New
 
-This release creates Documenting A Technical Process Lab as a new module for our curriculum.
+This module is a new addition to our curriculum.
 
 ### Release details
 

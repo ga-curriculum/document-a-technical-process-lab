@@ -23,14 +23,14 @@ courses {
     name = "itb"
     microlessons {
       mls.setup
-      mls.documentingATechnicalProcessLab
+      mls.documentATechnicalProcess
     }
   }
   new {
     name = "fallback"
     microlessons {
       mls.setup
-      mls.documentingATechnicalProcessLab
+      mls.documentATechnicalProcess
     }
   }
 }
