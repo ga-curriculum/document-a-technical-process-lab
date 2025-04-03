@@ -3,6 +3,8 @@
   <span class="subhead">Document a Technical Process</span>
 </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to analyze and document a technical process in a clear and concise manner.
+
 ## Overview
 
 Clear, concise, and accurate documentation is crucial for effective communication in technical workflows. This lab will help you develop technical writing skills needed to write effective documentation by having you document a technical process of your choosing from start to finish.
